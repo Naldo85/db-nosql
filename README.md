@@ -23,8 +23,6 @@ O NoSQL foi criado para ter melhor desempenho e maior escalabilidade horizontal 
 | Coluna | Campo |
 | Junção de tabela | Documentos incorporados |
 | Chave Primária | Chave Primária (chave padrão _id fornecida pelo próprio mongodb) |
-| mysqld/oracle | mongod |
-| mysql/sqlplus | mongo |
 
 ## Principais comandos NoSQL
 ### bancos de dados (databases)
